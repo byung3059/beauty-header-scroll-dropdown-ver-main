@@ -488,11 +488,11 @@
 }
 
 .main_content .inner .itm {
-    margin: 0 0 0 -15px;
+    margin: 0 -15px;
 }
 
 .main_content .inner .itm figure {
-    margin: 0 0 0 15px;
+    margin: 0 15px;
 }
 
 .main_content .inner .itm .img_box {
@@ -610,13 +610,12 @@
 }
 
 .main_product .inner .itm {
-    margin: 0 0 0 -15px;
+    margin: 0 -15px;
 
 }
 
 .main_product .inner .itm figure {
-    margin: 0 0 0 15px;
-    flex: 1;
+    margin: 0 15px;
 }
 
 .main_product .inner .itm .img_box {
@@ -752,12 +751,12 @@
 }
 
 .main_banner .inner .itm {
-    margin: 0 0 0 -15px;
+    margin: 0 -15px;
 }
 
 .main_banner .inner .itm figure {
-    margin: 0 0 0 15px;
-    flex: 1;
+    margin: 0 15px;
+
 }
 
 .main_banner .inner .itm figure .img_box {
