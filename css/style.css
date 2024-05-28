@@ -272,7 +272,7 @@
 
 .main_visual .main_slide .itm {
     position: relative;
-    height: 953px;
+    height: 100vh;
 }
 
 .main_visual .main_slide .itm::before {
