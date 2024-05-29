@@ -19,7 +19,7 @@
     left: 0;
 
     color: #fff;
-    background: transparent;
+    background: rgba(0, 0, 0, 0.15);
     transition: 0.2s;
 }
 
@@ -1031,10 +1031,11 @@
 
 .to_top button i {
     padding: 16px;
-    background: #f7f8f9;
-    color: #666;
+    transform: rotate(90deg);
     font-size: 24px;
     border-radius: 50%;
+    color: #666;
+    background: #f7f8f9;
 }
 
 @media(max-width:768px) {
@@ -1063,9 +1064,10 @@
 
     .to_top button i {
         padding: 16px;
-        background: #f7f8f9;
-        color: #666;
+        transform: rotate(90deg);
         font-size: 24px;
         border-radius: 50%;
+        color: #666;
+        background: #f7f8f9;
     }
 }
