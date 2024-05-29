@@ -3,7 +3,7 @@ $(function () {
     $(window).on('scroll', function () {
         let sct = $(window).scrollTop();
         console.log(sct);
-        if (sct > 720) {
+        if (sct > 1) {
             $('.header').addClass('on')
         } else {
             $('.header').removeClass('on')
